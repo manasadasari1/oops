@@ -1,0 +1,8 @@
+C:\Users\Gopika ratnam\source\repos\ConsoleAppBasics\ConsoleAppBasics\bin\Debug\ConsoleAppBasics.exe.config
+C:\Users\Gopika ratnam\source\repos\ConsoleAppBasics\ConsoleAppBasics\bin\Debug\ConsoleAppBasics.exe
+C:\Users\Gopika ratnam\source\repos\ConsoleAppBasics\ConsoleAppBasics\bin\Debug\ConsoleAppBasics.pdb
+C:\Users\Gopika ratnam\source\repos\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.csproj.AssemblyReference.cache
+C:\Users\Gopika ratnam\source\repos\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gopika ratnam\source\repos\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.csproj.CoreCompileInputs.cache
+C:\Users\Gopika ratnam\source\repos\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.exe
+C:\Users\Gopika ratnam\source\repos\ConsoleAppBasics\ConsoleAppBasics\obj\Debug\ConsoleAppBasics.pdb
