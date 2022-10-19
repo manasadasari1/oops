@@ -1,0 +1,8 @@
+C:\Users\Gopika ratnam\source\repos\OOPS_1\OOPS_1\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\Gopika ratnam\source\repos\OOPS_1\OOPS_1\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gopika ratnam\source\repos\OOPS_1\OOPS_1\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Gopika ratnam\source\repos\OOPS_1\OOPS_1\bin\Debug\OOPS_1.exe.config
+C:\Users\Gopika ratnam\source\repos\OOPS_1\OOPS_1\bin\Debug\OOPS_1.exe
+C:\Users\Gopika ratnam\source\repos\OOPS_1\OOPS_1\bin\Debug\OOPS_1.pdb
+C:\Users\Gopika ratnam\source\repos\OOPS_1\OOPS_1\obj\Debug\OOPS_1.exe
+C:\Users\Gopika ratnam\source\repos\OOPS_1\OOPS_1\obj\Debug\OOPS_1.pdb
